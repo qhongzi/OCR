@@ -7,7 +7,7 @@
 ![version](https://img.shields.io/badge/version-1.0-brightgreen) ![platform](https://img.shields.io/badge/platform-Windows_7/10/11-blue) ![license](https://img.shields.io/badge/license-Copyright_©_2026_宏仔-lightgrey)
 
 ---
-
+![软件截图](docs/screenshots/欢迎使用.png)
 ## 目录
 
 - [软件简介](#软件简介)
