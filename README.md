@@ -7,6 +7,10 @@
 ![version](https://img.shields.io/badge/version-1.0-brightgreen) ![platform](https://img.shields.io/badge/platform-Windows_7/10/11-blue) ![license](https://img.shields.io/badge/license-Copyright_©_2026_宏仔-lightgrey)
 
 ---
+## 📥 快速下载
+
+[![安装包版 下载](https://img.shields.io/badge/安装包版-下载-blue?style=for-the-badge&logo=windows)](https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-setup.exe) [![单文件版 下载](https://img.shields.io/badge/单文件版-下载-green?style=for-the-badge&logo=windows)](https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-single.exe) [![绿色压缩包 下载](https://img.shields.io/badge/绿色压缩包-下载-purple?style=for-the-badge&logo=windows)](https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-green.zip)
+
 ![软件截图](docs/screenshots/欢迎使用.png)
 ## 目录
 
@@ -18,20 +22,6 @@
 - [工作原理（技术实现）](#工作原理技术实现)
 - [常见问题 FAQ](#常见问题-faq)
 - [版权与联系](#版权与联系)
-
----
-
-## 📥 快速下载
-
-> 点击下方按钮即可**直接下载**，三个版本都支持软件内自动更新（设置 → 更新）
-
-[![安装包版 下载](https://img.shields.io/badge/安装包版-下载-blue?style=for-the-badge&logo=windows)](https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-setup.exe) [![单文件版 下载](https://img.shields.io/badge/单文件版-下载-green?style=for-the-badge&logo=windows)](https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-single.exe) [![绿色压缩包 下载](https://img.shields.io/badge/绿色压缩包-下载-purple?style=for-the-badge&logo=windows)](https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-green.zip)
-
-| 版本 | 说明 | 大小 |
-| --- | --- | --- |
-| **安装包版** | 安装向导，装完自动生成**桌面快捷方式**，默认安装后自动打开 | 121.3 MB |
-| **单文件版** | 免安装，**双击即用** | 114.5 MB |
-| **绿色压缩包** | 解压即用，体积最小 | 114.8 MB |
 
 ---
 
