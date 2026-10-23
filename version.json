@@ -1,11 +1,11 @@
 {
-        "single":  {
-                               "url":  "https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-single.exe",
-                               "md5":  "84da12d632677b5efb82ad4cced9ce8a"
-        },
-        "pack":  {
-                             "url":  "https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-green.zip",
-                             "md5":  "e1faa21d9fef2c068be72cda5c989729"
-        },
-        "version":  "1.0"
+            "single":  {
+                                       "url":  "https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-single.exe",
+                                       "md5":  "da5253f5b2d3880c404d3f52cf2e4ce7"
+            },
+            "pack":  {
+                                     "url":  "https://github.com/qhongzi/hongzi-ocr/releases/download/v1.0/hongzi-ocr-green.zip",
+                                     "md5":  "2eb7536703ec8f7c2d5f435bf14507cc"
+            },
+            "version":  "1.0"
 }
